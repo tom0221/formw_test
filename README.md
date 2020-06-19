@@ -5,6 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
+*参考サイト
+https://web-camp.io/magazine/archives/17665
+
 * Ruby version
 
 * System dependencies
